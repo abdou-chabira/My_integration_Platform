@@ -1,5 +1,7 @@
 # Django Integration Platform
 
+![Integration Platform Chart](Myintegration_platform-chart.png)
+
 Features:
 
 - OAuth integration simulation
